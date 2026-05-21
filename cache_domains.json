@@ -1,18 +1,17 @@
-{
-    {
-      "name": "epicgames",
-      "description": "CDN for Epic Games",
-      "domain_files": ["epicgames.txt"]
-    },
-    {
-      "name": "riot",
-      "description": "CDN for Riot Games",
-      "domain_files": ["riot.txt"]
-    },
-    {
-      "name": "steam",
-      "description": "CDN for Steam",
-      "domain_files": ["steam.txt"]
-    }
-  ]
-}
+[
+  {
+    "name": "epicgames",
+    "description": "CDN for Epic Games",
+    "domain_files": ["epicgames.txt"]
+  },
+  {
+    "name": "riot",
+    "description": "CDN for Riot Games",
+    "domain_files": ["riot.txt"]
+  },
+  {
+    "name": "steam",
+    "description": "CDN for Steam",
+    "domain_files": ["steam.txt"]
+  }
+]
